@@ -1,0 +1,9 @@
+Lições aprendias?
+
+1) comando dotnet-h
+	Exibe os comandos dotnet
+	
+2) O terminal do VS code está na aba View Ou ctrl + '
+
+3) É possível executar o projeto digitando dotnet run
+

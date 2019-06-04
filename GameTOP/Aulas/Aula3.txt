@@ -1,0 +1,3 @@
+1) Ir até a linha do erro: 
+	Suponhamos que ele exiba Program.cs(9,28):
+	Então apertaremos ctrl + shift + P: depois digetaremos :9:28

@@ -1,0 +1,7 @@
+Extensões importantes
+
+1) C# extensions -> Facilita na criação de arquivos C# ( classes, interfaces, .json, etc)
+2) Bracket pair colorizer -> mostra aonde a chave fecha 
+3) Material icon theme
+4) Path Intellisense
+5) NuGet Package Manager

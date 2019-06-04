@@ -1,0 +1,22 @@
+Comandos:
+
+dotnet sln GameTOP.sln add .\GameTOP\GameTOP.csproj GameTOP.lib/GameTOP.lib.csproj
+Adicionar projetos na solução GameTOP
+
+
+Adicionar Projeto unico na solucao:
+	dotnet sln GameTOP.sln add .\GameTOP\GameTOP.csproj GameTOP.lib/GameTOP.lib.csproj
+	
+Adicionando referencia no projeto:
+	dotnet add .\GameTOP.lib\GameTOP.lib.csproj reference .\GameTOP.Interface\GameTOP.Interface.csproj
+					(a quem)                                       
+				
+Comando para dar rebuild nas dll's do C#. Fundamental quando for criar referencias de projeto e solucão.				
+dot net restore 
+
+Toda vez q salvar o projeto, o mesmo será executado automaticamente, conforme comando abaixo:
+dotnet watch
+
+
+Baixar o git:
+https://git-scm.com/download/win
